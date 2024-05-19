@@ -1,0 +1,130 @@
+[
+    {
+        "id" : 1,
+        "category" : 1,
+        "status" : 0, 
+        "name" : "Áo thun 1",
+        "price" : 42,
+        "img" : "f1.jpg"
+    },
+    {
+        "id" : 2,
+        "category" : 1,
+        "status" : 0,
+        "name" : "Áo thun 2",
+        "price" : 43,
+        "img" : "f2.jpg"
+    },
+    {
+        "id" : 3,
+        "category" : 1,
+        "status" : 0,
+        "name" : "Áo thun 3",
+        "price" : 42,
+        "img" : "f3.jpg"
+    },
+    {
+        "id" : 4,
+        "category" : 1,
+        "status" : 0,
+        "name" : "Áo thun 4",
+        "price" : 36,
+        "img" : "f4.jpg"
+    },
+    {
+        "id" : 5,
+        "category" : 1,
+        "status" : 0,
+        "name" : "Áo phông 1",
+        "price" : 53,
+        "img" : "f5.jpg"
+    },
+    {
+        "id" : 6,
+        "category" : 0,
+        "status" : 0,
+        "name" : "Áo phông 2",
+        "price" : 43,
+        "img" : "f6.jpg"
+    },
+    {
+        "id" : 7,
+        "category" : 0,
+        "status" : 0,
+        "name" : "Áo phông 3",
+        "price" : 31,
+        "img" : "f7.jpg"
+    },
+    {
+        "id" : 8,
+        "category" : 0,
+        "status" : 0,
+        "name" : "Áo phông 4",
+        "price" : 40,
+        "img" : "f8.jpg"
+    },
+    {
+        "id" : 9,
+        "category" : 0,
+        "status" : 0,
+        "name" : "Áo phông 5",
+        "price" : 57,
+        "img" : "n1.jpg"
+    },
+    {
+        "id" : 10,
+        "category" : 1,
+        "status" : 1,
+        "name" : "Váy dài 1",
+        "price" : 99,
+        "img" : "n2.jpg"
+    },
+    {
+        "id" : 11,
+        "category" : 0,
+        "status" : 0,
+        "name" : "Váy dài 2",
+        "price" : 39,
+        "img" : "n3.jpg"
+    },
+    {
+        "id" : 12,
+        "category" : 0,
+        "status" : 0,
+        "name" : "Váy dài 3",
+        "price" : 45,
+        "img" : "n4.jpg"
+    },
+    {
+        "id" : 13,
+        "category" : 0,
+        "status" : 0,
+        "name" : "Váy dài 4",
+        "price" : 38,
+        "img" : "n5.jpg"
+    },
+    {
+        "id" : 14,
+        "category" : 0,
+        "status" : 0,
+        "name" : "Váy dài 5",
+        "price" : 67,
+        "img" : "n6.jpg"
+    },
+    {
+        "id" : 15,
+        "category" : 0,
+        "status" : 0,
+        "name" : "Quần jean 1",
+        "price" : 46,
+        "img" : "n7.jpg"
+    },
+    {
+        "id" : 16,
+        "category" : 0,
+        "status" : 0,
+        "name" : "Quần jean 2",
+        "price" : 42,
+        "img" : "n8.jpg"
+    }
+]

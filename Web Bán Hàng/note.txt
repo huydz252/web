@@ -1,0 +1,8 @@
+{
+    "id" : 1,   
+    "category" : 1, //1 là sản phẩm 1, 2 là sản phẩm 2, dùng để gợi ý các sản phẩm tương tự
+    "status" : 0,   // 0 là trạng thái không phải hàng mới, 1 là mới
+    "name" : "Áo thun 1",
+    "price" : 42,
+    "img" : "f1.jpg"
+}
